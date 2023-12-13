@@ -1,0 +1,17 @@
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\bin\Debug\net7.0-windows\SimpleButtonClicker.exe
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\bin\Debug\net7.0-windows\SimpleButtonClicker.deps.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\bin\Debug\net7.0-windows\SimpleButtonClicker.runtimeconfig.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\bin\Debug\net7.0-windows\SimpleButtonClicker.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\bin\Debug\net7.0-windows\SimpleButtonClicker.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.csproj.GenerateResource.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\refint\SimpleButtonClicker.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.genruntimeconfig.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\ref\SimpleButtonClicker.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\SimpleButtonClicker\SimpleButtonClicker\obj\Debug\net7.0-windows\SimpleButtonClicker.ButtonSmasher.resources
