@@ -1,0 +1,17 @@
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\bin\Debug\net7.0-windows\ClicksPerMinute.exe
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\bin\Debug\net7.0-windows\ClicksPerMinute.deps.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\bin\Debug\net7.0-windows\ClicksPerMinute.runtimeconfig.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\bin\Debug\net7.0-windows\ClicksPerMinute.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\bin\Debug\net7.0-windows\ClicksPerMinute.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.Form1.resources
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.csproj.GenerateResource.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\refint\ClicksPerMinute.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ClicksPerMinute.genruntimeconfig.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\ClicksPerMinute\ClicksPerMinute\obj\Debug\net7.0-windows\ref\ClicksPerMinute.dll
