@@ -1,0 +1,17 @@
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\bin\Debug\net7.0-windows\HydraVirus.exe
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\bin\Debug\net7.0-windows\HydraVirus.deps.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\bin\Debug\net7.0-windows\HydraVirus.runtimeconfig.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\bin\Debug\net7.0-windows\HydraVirus.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\bin\Debug\net7.0-windows\HydraVirus.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.FormVirus.resources
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.csproj.GenerateResource.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\refint\HydraVirus.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\HydraVirus.genruntimeconfig.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\HydraVirus\HydraVirus\obj\Debug\net7.0-windows\ref\HydraVirus.dll
