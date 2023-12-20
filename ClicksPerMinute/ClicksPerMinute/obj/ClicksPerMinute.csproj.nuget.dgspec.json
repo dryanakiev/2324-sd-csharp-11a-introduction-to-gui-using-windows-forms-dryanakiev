@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dyanakiev\\source\\repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj": {}
+    "C:\\Users\\dyanakiev\\Source\\Repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dyanakiev\\source\\repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj": {
+    "C:\\Users\\dyanakiev\\Source\\Repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dyanakiev\\source\\repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj",
+        "projectUniqueName": "C:\\Users\\dyanakiev\\Source\\Repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj",
         "projectName": "ClicksPerMinute",
-        "projectPath": "C:\\Users\\dyanakiev\\source\\repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj",
+        "projectPath": "C:\\Users\\dyanakiev\\Source\\Repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\ClicksPerMinute.csproj",
         "packagesPath": "C:\\Users\\dyanakiev\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dyanakiev\\source\\repos\\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\\ClicksPerMinute\\ClicksPerMinute\\obj\\",
         "projectStyle": "PackageReference",

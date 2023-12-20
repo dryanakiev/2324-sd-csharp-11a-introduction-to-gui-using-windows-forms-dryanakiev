@@ -29,21 +29,21 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            button1 = new Button();
+            buttonStart = new Button();
             label1 = new Label();
-            timer1 = new System.Windows.Forms.Timer(components);
+            timerCountdown = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
-            // button1
+            // buttonStart
             // 
-            button1.Dock = DockStyle.Bottom;
-            button1.Location = new Point(0, 224);
-            button1.Name = "button1";
-            button1.Size = new Size(282, 29);
-            button1.TabIndex = 0;
-            button1.Text = "Start";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            buttonStart.Dock = DockStyle.Bottom;
+            buttonStart.Location = new Point(0, 224);
+            buttonStart.Name = "buttonStart";
+            buttonStart.Size = new Size(282, 29);
+            buttonStart.TabIndex = 0;
+            buttonStart.Text = "Start";
+            buttonStart.UseVisualStyleBackColor = true;
+            buttonStart.Click += buttonStart_Click;
             // 
             // label1
             // 
@@ -55,27 +55,29 @@
             label1.Text = "Good luck!";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // timer1
+            // timerCountdown
             // 
-            timer1.Interval = 10;
+            timerCountdown.Interval = 10000;
+            timerCountdown.Tick += timerCountdown_Tick;
             // 
-            // Form1
+            // FormCPM
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(282, 253);
             Controls.Add(label1);
-            Controls.Add(button1);
-            Name = "Form1";
+            Controls.Add(buttonStart);
+            Name = "FormCPM";
             Text = "Form1";
+            Click += FormCPM_Click;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Button button1;
+        private Button buttonStart;
         private Label label1;
-        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timerCountdown;
     }
 }
