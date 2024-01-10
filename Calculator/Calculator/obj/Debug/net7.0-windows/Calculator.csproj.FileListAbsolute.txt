@@ -1,0 +1,17 @@
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Form1.resources
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\dyanakiev\source\repos\2324-sd-csharp-11a-introduction-to-gui-using-windows-forms-dryanakiev\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
